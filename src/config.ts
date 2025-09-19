@@ -3,7 +3,7 @@ export const siteConfig = {
   title: "CS Major at Georgia Tech",
   description: "Portfolio website of Justin Kang",
   accentColor: "#1d4ed8",
-  resumelink: "https://drive.google.com/file/d/1k4-s2E-PDrjalbTVe2_oyK2AZvr7MV9l/view",
+  resumelink: "https://drive.google.com/file/d/1tISV-HkY2AmcK7B98ijDwFUGjYm1Kyyn/view?usp=sharing",
   social: {
     email: "kangjustin392@gmail.com",
     linkedin: "https://linkedin.com/in/kangjustin",
